@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam DEY</h1>
-<h3 align="center">A passionate Mobile developer from Tunisia</h3>
+<h3 align="center">An engineering student passionate about Mobile development</h3>
 
 - 🌱 I’m currently learning **Flutter**
 
