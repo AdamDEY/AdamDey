@@ -19,7 +19,7 @@ I build cross-platform mobile apps and the web and backend tooling around them. 
 ## 📫 Get in touch
 
 - 💼 Open to full-time opportunities, available immediately
-- 📧 **adame.dey@insat.ucar.tn**
+- 📧 **adam.dey@outlook.fr**
 - 💻 More of my projects at [github.com/AdamDEY](https://github.com/AdamDEY)
 
 <h3 align="left">Connect with me:</h3>
